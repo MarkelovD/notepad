@@ -1,0 +1,8 @@
+2023-05-15 21:50:47,230 - [INFO] - __main__ - (main.py).<module>(56) - Введена неверная команда & C:/Users/marke/AppData/Local/Programs/Python/Python310/python.exe "c:/Users/marke/OneDrive/Рабочий стол/notes/main.py".
+2023-05-15 21:50:51,326 - [INFO] - __main__ - (main.py).<module>(25) - Завершение программы.
+2023-05-15 21:50:53,728 - [INFO] - __main__ - (main.py).<module>(10) - Программа стартует
+2023-05-15 21:50:53,729 - [INFO] - store - (store.py).__init__(16) - Файл notes.csv существует и открывается.
+2023-05-15 21:50:53,729 - [INFO] - store - (store.py).read_all(28) - Все заметки прочитаны из файла.
+2023-05-15 21:50:53,729 - [INFO] - __main__ - (main.py).<module>(14) - Заметки прочитаны из файла notes.csv.
+2023-05-15 21:51:28,107 - [INFO] - __main__ - (main.py).<module>(52) - Введена неверная команда q\.
+2023-05-15 21:51:29,577 - [INFO] - __main__ - (main.py).<module>(21) - Завершение программы.
